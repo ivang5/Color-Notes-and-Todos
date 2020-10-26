@@ -74,4 +74,10 @@ export var noteList = [
       "Bootstrap 5 first alpha was officially released on June 16, 2020. Bootstrap 5 alpha 2 was released on September 29, 2020.",
     color: "red",
   },
+  {
+    id: 14,
+    text:
+      "Vatican City is the smallest country in Europe, and even in the world. The Vatican City State is under 0.2 square miles. The population is under one thousand.",
+    color: "black",
+  },
 ];
