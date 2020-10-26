@@ -274,7 +274,7 @@ function App() {
                     value={noteText}
                     onChange={(e) => setNoteText(e.target.value)}
                     cols="26"
-                    rows="9"
+                    rows="7"
                   ></textarea>
                   <button
                     className="btn-create"
